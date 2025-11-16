@@ -13,6 +13,8 @@ This project automates tracking vet bills for my senior dog, Scotch. Since my au
 * Instantly notifies your aunt whenever a new bill is recorded, ensuring she’s always up-to-date on Scotch’s vet expenses.
 
 ## Demo 
-![Watch the video](https://raw.githubusercontent.com/Mihirbhadauria/Automatic-Vet-bill-tracker/main/demo_walkthrough.mp4)
+
+https://github.com/user-attachments/assets/749332fe-77ab-477c-9bd6-9e6859ccd971
+
 
 *Only thing which is pending is the Whatsapp message going to my aunt as the recipent. Due to meta policies I have to wait for app to be authorised and have tested extensively with API but only hello world template message can be sent at this stage however will upload more!
