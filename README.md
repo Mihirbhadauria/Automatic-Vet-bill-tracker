@@ -14,7 +14,7 @@ This project automates tracking vet bills for my senior dog, Scotch. Since my au
 
 ## Demo 
 
-https://github.com/user-attachments/assets/749332fe-77ab-477c-9bd6-9e6859ccd971
+https://github.com/user-attachments/assets/7d3a41f0-3ef9-41a0-852b-5eb58686603d
 
 
 *Only thing which is pending is the Whatsapp message going to my aunt as the recipent. Due to meta policies I have to wait for app to be authorised and have tested extensively with API but only hello world template message can be sent at this stage however will upload more!
