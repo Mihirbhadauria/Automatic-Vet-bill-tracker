@@ -17,6 +17,9 @@ This project automates tracking vet bills for my senior dog, Scotch. Since my au
 https://github.com/user-attachments/assets/7d3a41f0-3ef9-41a0-852b-5eb58686603d
 
 
+*Got message template approved! waiting on business approval to make this offically prod
+<img width="566" height="160" alt="image" src="https://github.com/user-attachments/assets/fde7eb08-9ab1-4471-966b-86e1c82f41a5" />
+
 *Only thing which is pending is the Whatsapp message going to my aunt as the recipent. Due to meta policies I have to wait for app to be authorised and have tested extensively with API but only hello world template message can be sent at this stage however will upload more!
 
 ## 🚦 Running the Project
