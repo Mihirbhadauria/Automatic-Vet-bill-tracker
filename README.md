@@ -10,7 +10,7 @@ This project automates tracking vet bills for my senior dog, Scotch. Since my au
 
 * Posts all expense records directly into a dedicated Google Sheet for transparent, ongoing tracking.
 
-* Instantly notifies your aunt whenever a new bill is recorded, ensuring she’s always up-to-date on Scotch’s vet expenses.
+* Instantly notifies my aunt whenever a new bill is recorded, ensuring she’s always up-to-date on Scotch’s vet expenses.
 
 ## Demo 
 
